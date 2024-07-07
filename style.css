@@ -13,7 +13,9 @@ body {
   text-align: center;
 }
 
-
+#credit{
+  text-align: left;
+}
 #height,
 #weight {
   width: 150px;
@@ -21,7 +23,7 @@ body {
   margin-top: 30px;
   
 }
-#y{
+/* #y{
    color: rgb(255, 255, 0);
 }
 #g{
@@ -29,7 +31,7 @@ body {
 }
 #r{
   color: red;
-}
+} */
 
 #weight-guide {
   text-align:left;
